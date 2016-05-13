@@ -1,5 +1,5 @@
-## Lean Product Design Lightning Talk @ 18F ##
-**By Nick Brethauer**
+## Lean Product Design Lightning Talk ##
+**By Nick Brethauer, 18F**
 
 This is a super fast, 3 minute overview of Lean Product Design. Everyone on a product team - not just UX folks or PMs, should care about these ideas, because they represent a whole team approach to building things.
 I’ll give you a couple key principles that define Lean Product Design, then give a quick idea about how you might start to enact them with your team within agile.
